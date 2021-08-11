@@ -11,5 +11,14 @@ This repository contains:
 - A poster from the 2021 Assembly of the Order of the Octopus
 - Slides from the Cal-Bridge Summer Research Symposium
 
+There are a number of steps which may be taken following the end of the this summer:
+Next steps:
+- In the Notebook:
+  - Edit the Notebook so it may be run independently of the two python files written by Dr. DeBoer
+  - Investigate a way to connect to JPL Horizons through the Notebook instead of imbedding a link to the website
+  - Edit the way noise is added into the waterfall plots so they would look more like a real signal
+- In general:
+  - Edit code written by Dr. DeBoer that deal with the other potential causes of drift (outlined in the Notebook)
+    - Possible create a new Notebook for each
 
 <i> Funding for this project was provided by the National Science Foundation and Breakthrough Listen </i>
