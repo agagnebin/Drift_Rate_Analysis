@@ -19,6 +19,6 @@ Next steps:
   - Edit the way noise is added into the waterfall plots so they would look more like a real signal
 - In general:
   - Edit code written by Dr. DeBoer that deal with the other potential causes of drift (outlined in the Notebook)
-    - Possible create a new Notebook for each
+    - Possibly create a new Notebook for each
 
 <i> Funding for this project was provided by the National Science Foundation and Breakthrough Listen </i>
