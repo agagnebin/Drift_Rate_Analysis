@@ -16,6 +16,7 @@ Next steps:
 - In the Notebook:
   - Edit the Notebook so it may be run independently of the two python files written by Dr. DeBoer
   - Investigate a way to connect to JPL Horizons through the Notebook instead of imbedding a link to the website
+    - I tried to use telnetlib, but it didn't work. The next step would be to look into astroquery
   - Edit the way noise is added into the waterfall plots so they would look more like a real signal
 - In general:
   - Edit code written by Dr. DeBoer that deal with the other potential causes of drift (outlined in the Notebook)
