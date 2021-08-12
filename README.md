@@ -7,6 +7,7 @@ Berkeley SETI Research Center, Summer 2021
 The goal of this project was to develop a Jupyter Notebook to help a user visually analyze the drift of a potential signal of interest to verify whether it: 
 - may be extraterrestrial in origin
 - could have originated from a source located in the direction in which the signal was observed
+
 in order to simplify the search for extraterrestrial intelligence.
 
 The outline of this repository:
